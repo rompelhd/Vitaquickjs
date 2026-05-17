@@ -3,7 +3,7 @@
 Build script for compiling QuickJS-NG as a static library for PS Vita (VitaSDK). This repository contains a VITABUILD for building libquickjs.a using an ARM Vita cross-compiler.
 
 The screenshots below show:
-- **Screenshot 1:** QuickJS code running inside the project source.
+- **Screenshot 1:** Sample code using the QuickJS library.
 - **Screenshot 2:** The same code executed directly on a real PS Vita.
 
 <p align="left">
