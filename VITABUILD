@@ -3,7 +3,7 @@ pkgver=0.14.0
 pkgrel=1
 url="https://github.com/quickjs-ng/quickjs"
 
-source=("https://github.com/quickjs-ng/quickjs/archive/refs/tags/v0.14.0.zip")
+source=("https://github.com/quickjs-ng/quickjs/archive/refs/tags/v$pkgver.zip")
 
 sha256sums=('SKIP')
 
