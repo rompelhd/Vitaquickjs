@@ -5,7 +5,7 @@ url="https://github.com/quickjs-ng/quickjs"
 
 source=("https://github.com/quickjs-ng/quickjs/archive/refs/tags/v$pkgver.zip")
 
-sha256sums=('SKIP')
+sha256sums=('e636bfa5ce3e871f41578afa0ef02d0d990799c4f48ed3115950de93151ceb06')
 
 build() {
   cd quickjs-$pkgver
